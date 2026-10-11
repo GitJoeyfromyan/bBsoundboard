@@ -18,7 +18,12 @@ bBsoundboard 就从这里开始。希望未来它能够成为一个独立、模�
 >
 > — Ludwig van Beethoven，1818 年 2 月 3 日，致 Thomas Broadwood
 
-[贝多芬亲笔信原件 · University of St Andrews](https://collections.st-andrews.ac.uk/series/letter-from-ludwig-van-beethoven-to-mr-broadwood/2066309)
+<p align="center">
+  <img src="images/image-1.jpg" alt="Beethoven's letter to Thomas Broadwood, 3 February 1818" width="550">
+</p>
+
+*Ludwig van Beethoven, letter to Thomas Broadwood, 3 February 1818.
+University of St Andrews, Special Collections, ms39022.*
 
 ---
 
